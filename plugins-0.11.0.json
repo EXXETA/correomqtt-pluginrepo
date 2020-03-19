@@ -1,0 +1,17 @@
+[
+{"id": "json-format-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-json-format/releases/download/v0.0.2/JsonFormatPlugin-0.0.2.jar"}]}
+,
+{"id": "contains-string-validator-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-contains-string-validator/releases/download/v0.0.2/ContainsStringValidatorPlugin-0.0.2.jar"}]}
+,
+{"id": "zip-manipulator-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-zip/releases/download/v0.0.2/ZipPlugin-0.0.2.jar"}]}
+,
+{"id": "xml-xsd-validator-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-xml-xsd-validator/releases/download/v0.0.2/XmlXsdValidatorPlugin-0.0.2.jar"}]}
+,
+{"id": "xml-format-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-xml-format/releases/download/v0.0.2/XmlFormatPlugin-0.0.2.jar"}]}
+,
+{"id": "save-manipulator-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-save/releases/download/v0.0.2/SavePlugin-0.0.2.jar"}]}
+,
+{"id": "base64-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-base64/releases/download/v0.0.2/Base64Plugin-0.0.2.jar"}]}
+,
+{"id": "advanced-validator-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-advanced-validator/releases/download/v0.0.2/AdvancedValidator-0.0.2.jar"}]}
+]
