@@ -16,4 +16,6 @@
   {"id": "advanced-validator-plugin","releases": [{"version": "0.0.2","date": "2020-03-19", "url": "https://github.com/EXXETA/correomqtt-plugin-advanced-validator/releases/download/v0.0.2/AdvancedValidator-0.0.2.jar"}]}
 ,
   {"id": "farion-theme-pack-plugin","releases": [{"version": "0.0.3","date": "2020-05-21", "url": "https://github.com/farion/correomqtt-farion-theme-pack/releases/download/v0.0.3/farion-theme-pack-plugin-0.0.3.jar"}]}
+,
+  {"id": "SysTopicPlugin","releases": [{"version": "0.0.1","date": "2020-02-28", "url": "https://github.com/EXXETA/correomqtt-plugin-systopic/releases/download/v0.0.1/correomqtt-plugin-systopic-0.0.1.jar"}]}  
 ]
