@@ -1,5 +1,4 @@
 [![GitHub](https://img.shields.io/github/license/exxeta/correomqtt-pluginrepo)](https://github.com/exxeta/correomqtt-pluginrepo/blob/develop/LICENSE) 
-[![CodeQL](https://github.com/EXXETA/correomqtt-pluginrepo/workflows/CodeQL/badge.svg)](https://github.com/EXXETA/correomqtt-pluginrepo/security/code-scanning)
 
 # CorreoMQTT Plugin Repository
 
